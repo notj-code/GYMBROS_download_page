@@ -1,8 +1,8 @@
 # Site settings
-title: Gymbros
+title: ZYMBROS.
 email: gbrs.dev@gmail.com
-url: https://example.github.io
-description: "GYMBROS is a Personalized AI Fitness Trainer that helps you achieve your fitness goals."
+url: https://gbrs.netlify.app/
+description: "ZYMBROS. is a Personalized AI Fitness Trainer that helps you achieve your fitness goals."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#B20710'
 
 # Footer settings
-footer: GYMBROS © 2025
+footer: ZYMBROS. © 2025
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
