@@ -6,8 +6,8 @@ description: "GYMBROS is a Personalized AI Fitness Trainer that helps you achiev
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+  primary-dark: '#141414'
+  links: '#B20710'
 
 # Footer settings
 footer: GYMBROS © 2025
