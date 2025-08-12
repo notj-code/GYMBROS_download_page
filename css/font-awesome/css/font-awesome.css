@@ -625,6 +625,9 @@
 .fa-rss:before {
   content: "\f09e";
 }
+.fa-blog:before {
+  content: "\f09e";
+}
 .fa-hdd-o:before {
   content: "\f0a0";
 }
